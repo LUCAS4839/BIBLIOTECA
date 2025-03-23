@@ -23,9 +23,11 @@ O **Book Haven** é um aplicativo desenvolvido para apaixonados por leitura, per
 O objetivo principal do Book Haven é oferecer uma plataforma interativa onde os usuários possam gerenciar livros, facilitando o acesso às informações e melhorando a experiência de leitura.
 
 
- Tecnologias Utilizadas
+## Ferramentas Utilizadas
+ 
+Figma: Para a criação do design da interface do aplicativo.
 
-O projeto está sendo desenvolvido com o auxílio do Figma para o design da interface e ferramentas como Trello para organização das tarefas. 
+Trello: Para gerenciar as tarefas e acompanhar o progresso do projeto.
 
 
 ## Considerações Finais
